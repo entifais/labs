@@ -1,0 +1,8 @@
+* como puede mejorar el mundo este paper
+** paper:https://arxiv.org/pdf/1512.03385.pdf
+** ayuda al mundo por que:
+*** facilitando el entrenamiento
+  segun las pruebas empiricas son mas faciles de optimisar y pueden ganar mas presion
+*** buenos resultados en multiples datasets
+    se a provado en varios datasets y a daddo resultados sufientemente buenos , datasets como COCO o CIFAR-10 , tambien en retos como el ImageNet Large Scale Visual Recognition Challenge conocido como ILSVRC
+** hace el mundo un lugar peor porque: 
