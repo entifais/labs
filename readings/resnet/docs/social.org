@@ -1,0 +1,25 @@
+* como puede mejorar el mundo este paper
+** paper:https://arxiv.org/pdf/1512.03385.pdf
+** ayuda al mundo por que:
+*** facilitando el entrenamiento
+  segun las pruebas empiricas son mas faciles de optimisar y pueden ganar mas presicion
+*** buenos resultados en multiples datasets
+    se a provado en varios datasets y a daddo resultados sufientemente buenos , datasets como COCO o CIFAR-10 , tambien en retos como el ImageNet Large Scale Visual Recognition Challenge conocido como ILSVRC
+*** genera beneficios en el deep lerning
+    segun el texto
+*** evidencia que:
+    el principio de aprendizaje residual es genérico , esto quiere decir es mejor usar este modelo por que genera buenos resutlados con mayor proabilidad. 
+*** es implementable con bibliotecas existentes
+    esto es bueno por que no hay que empesar de 0 , como haciendo esas bibliotecas
+** hace el mundo un lugar peor porque:
+*** lo hace mas dependientes de las bibliotecas
+    si un dia no estan estas bibliotecas ¿seria igual de usable o creable este modelo?
+*** muy poco especifico
+    es capaz de abarcar y dar buenos resulatados , pero esto no significa que sean resultados que den soluciones reales
+"sometimes what we thinks is a solution is more like a new problem
+by son0p in  https://jero98772.pythonanywhere.com/blog/blog1.html#solutions"
+*** se habla de muchas capas...
+    tambien se sabe que mas capas implican mas calculos , estos calculos consumen mas energia y requieren mas potnecia computacional , ¿cuando es nesesario gastar la energia que nesitan esos calculos y  alimentar el consumismo para un equipo computacional con mas potencia(en caso dado que lo valla a comprar )?
+
+** adevertencia :
+   /!\ tengase en cuenta que la etica es realtiva y se abstiene a opiniones subjetivas
