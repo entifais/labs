@@ -1,3 +1,5 @@
+from typing import Optional
+
 import pytorch_lightning as pl
 from torch.utils import data
 from torchvision.datasets import CIFAR10
@@ -13,7 +15,7 @@ class CifarDataModule(pl.LightningDataModule):
     def prepare_data(self):
         pass
 
-    def setup(self):
+    def setup(self, stage: Optional[str] = None):
         pass
 
     def train_dataloader(self) -> data.DataLoader:
